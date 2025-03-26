@@ -12,14 +12,14 @@ export default function Contact() {
             contact@example.com
           </a>
           
-          <a href="tel:+1234567890" className="flex items-center text-black hover:text-gray-600 transition-colors">
+          <a href="tel:+639178622192" className="flex items-center text-black hover:text-gray-600 transition-colors">
             <Phone className="mr-2" size={24} />
-            (123) 456-7890
+            (+63) 917 862 2192
           </a>
           
           <a href="https://maps.google.com" target="_blank" rel="noopener noreferrer" className="flex items-center text-black hover:text-gray-600 transition-colors">
             <MapPin className="mr-2" size={24} />
-            City, Country
+            Manila, Philippines
           </a>
         </div>
         
