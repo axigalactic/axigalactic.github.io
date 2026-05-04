@@ -15,7 +15,7 @@ export default function Banner() {
             grow and connect with others who are just as passionate about coding and building cool, user-friendly projects!
           </p>
           <a 
-            href="/kia-axibal-cv.pdf" 
+            href="/Chiara_CV_FullStack.pdf" 
             className="inline-block mt-6 md:mt-8 md:ml-5 px-6 py-3 bg-black text-white font-bold rounded-md shadow-lg hover:bg-gray-800 transition-colors"
             download
           >
