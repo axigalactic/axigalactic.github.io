@@ -7,9 +7,9 @@ export default function Contact() {
         <h4 className="text-3xl font-bold mb-8">Contact Me</h4>
         
         <div className="flex flex-col md:flex-row justify-center gap-6 mb-8">
-          <a href="mailto:contact@example.com" className="flex items-center text-black hover:text-gray-600 transition-colors">
+          <a href="mailto:picaxiara@gmail.com" className="flex items-center text-black hover:text-gray-600 transition-colors">
             <Mail className="mr-2" size={24} />
-            contact@example.com
+            picaxiara@gmail.com
           </a>
           
           <a href="tel:+1234567890" className="flex items-center text-black hover:text-gray-600 transition-colors">
