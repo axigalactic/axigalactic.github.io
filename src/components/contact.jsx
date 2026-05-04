@@ -19,7 +19,7 @@ export default function Contact() {
           
           <a href="https://maps.google.com" target="_blank" rel="noopener noreferrer" className="flex items-center text-black hover:text-gray-600 transition-colors">
             <MapPin className="mr-2" size={24} />
-            Manila, Philippines
+            Taguig, Philippines
           </a>
         </div>
         
